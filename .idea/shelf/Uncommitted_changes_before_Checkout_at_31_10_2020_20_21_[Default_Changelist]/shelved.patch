@@ -1,0 +1,19 @@
+Index: index1.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Резюме</title>\r\n</head>\r\n<body>\r\n  <H1>SUMMARY</H1>\r\n <h3>Yeltsov Nikolay</h3>\r\n <img src=\"http://surl.li/glum\"width=\"200\" height=\"222\" alt=\"Yeltsov Nikolay\">   <p>Date of Birth 13.04.1990</p> <p>Residence address: big sea 184</p> <p>telephone 0638520309</p> \r\n <h3>Personal driver (personal)</h3>\r\n <ul>\r\n <li>Desired salary $ 20,000</li>    \r\n   <li>desired schedule full time</li>  \r\n   <li>male gender</li>   \r\n   <li>Marital status: Married</li> \r\n   <li>driving license (more than 10 years)</li>  \r\n   <li>personal car (car, truck,)</li>\r\n</ul>\r\n <h3>Additional wishes for the place of work:</h3>\r\n   <ul>\r\n <li>Schedule 5/2, Formalization</li>\r\n </ul>\r\n <h3>Work experience:</h3>\r\n<ul>\r\n<li>family driver</li> \r\n<Li>military vehicle driver</Li>\r\n<li>taxi driver</li>\r\n</ul>\r\n <h3>Education:</h3>\r\n <ul>\r\n<li>mid-specialty, auto-loser, Zaporizkiy professional lyceum No. 29</li>\r\n</ul>\r\n <h3>Personal qualities:</h3>\r\n <ul>\r\n <li>responsibility, caution, attentiveness, politeness, friendliness, punctuality.</li>\r\n</ul>\r\n<h3>Professional skills:</h3>\r\n<ul>\r\n<li>knowledge and observance of traffic rules, accident-free driving experience for more than 12 years, good knowledge of Ukrainian highways, experience of communicating with children.</li>\r\n</ul>\r\n<a href=\"Index.html\">на руском</a>\r\n<body>\r\n  \r\n    \r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index1.html	(revision 751ea8659aa98f456d5f47a0af8f7c9cf66e9b59)
++++ index1.html	(date 1604167313915)
+@@ -40,6 +40,7 @@
+ <ul>
+ <li>knowledge and observance of traffic rules, accident-free driving experience for more than 12 years, good knowledge of Ukrainian highways, experience of communicating with children.</li>
+ </ul>
++  jbikjlvmpszd;xlbj
+ <a href="Index.html">на руском</a>
+ <body>
+   
+diff --git .gitignore .gitignore
+new file mode 100644
